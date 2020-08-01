@@ -1,0 +1,366 @@
+[
+    {
+        "id": "101",
+        "slide":"",
+        "title": "Hello Tensors!👋 ",
+        "description": "Welcome to TFUG India Summit!",
+        "track": "Day 1",
+        "format": "Opening",
+        "date": "Sept 3rd, 2020",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "102",
+        "slide":"",
+        "title": "Opening Keynote - Invited Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Web",
+        "format": "Keynote",
+        "date": "Sept 3rd, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            11
+        ]
+    },
+    {
+        "id": "103",
+        "slide":"",
+        "title": "Invited Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Web",
+        "format": "Talk",
+        "date": "Sept 3rd, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            12
+        ]
+    },
+    {
+        "id": "104",
+        "slide":"",
+        "title": "CFP Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Web",
+        "format": "Talk",
+        "date": "Sept 3rd, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            13
+        ]
+    },
+    {
+        "id": "105",
+        "slide":"",
+        "title": "CFP Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+      
+        "track": "TensorFlow for Web",
+        "format": "Talk",
+        "date": "Sept 3rd, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            14
+        ]
+    },
+    {
+        "id": "106",
+        "slide":"",
+        "title": "Community Project Showcase",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "Project Title",
+        "format": "Project",
+        "date": "Sept 3rd, 2020",
+        "timeDuration": "10",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "107",
+        "slide":"",
+        "title": "Closing of Day 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "Day 1",
+        "format": "Closing",
+        "date": "Sept 3rd, 2020",
+        "timeDuration": "10",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "201",
+        "slide":"",
+        "title": "Hello Tensors!👋 ",
+        "description": "",
+        "track": "Day 2",
+        "format": "Opening",
+        "date": "Sept 4th, 2020",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "202",
+        "slide":"",
+        "title": "Opening Keynote - Invited Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Mobile",
+        "format": "Keynote",
+        "date": "Sept 4th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            21
+        ]
+    },
+    {
+        "id": "203",
+        "slide":"",
+        "title": "CFP Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Mobile",
+        "format": "Talk",
+        "date": "Sept 4th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            22
+        ]
+    },
+    {
+        "id": "204",
+        "slide":"",
+        "title": "CFP Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Mobile",
+        "format": "Talk",
+        "date": "Sept 4th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            23
+        ]
+    },
+    {
+        "id": "205",
+        "slide":"",
+        "title": "CFP Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Mobile",
+        "format": "Talk",
+        "date": "Sept 4th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            24
+        ]
+    },
+    {
+        "id": "206",
+        "slide":"",
+        "title": "Community Project Showcase",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "Project Title",
+        "format": "Project",
+        "date": "Sept 4th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "207",
+        "slide":"",
+        "title": "Closing of Day 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "Day 2",
+        "format": "Closing",
+        "date": "Sept 4th, 2020",
+        "timeDuration": "10",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "301",
+        "slide":"",
+        "title": "Hello Tensors!👋 ",
+        "description": "",
+        "track": "Day 3",
+        "format": "Opening",
+        "date": "Sept 5th, 2020",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "302",
+        "slide":"",
+        "title": "Opening Keynote - Invited Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Production",
+        "format": "Keynote",
+        "date": "Sept 5th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            31
+        ]
+    },
+    {
+        "id": "303",
+        "slide":"",
+        "title": "Invited Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Production",
+        "format": "Talk",
+        "date": "Sept 5th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            32
+        ]
+    },
+    {
+        "id": "304",
+        "slide":"",
+        "title": "CFP Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Production",
+        "format": "Talk",
+        "date": "Sept 5th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            33
+        ]
+    },
+    {
+        "id": "305",
+        "slide":"",
+        "title": "CFP Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Production",
+        "format": "Talk",
+        "date": "Sept 5th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            34
+        ]
+    },
+    {
+        "id": "306",
+        "slide":"",
+        "title": "Community Project Showcase",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "Project Title",
+        "format": "Project",
+        "date": "Sept 5th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "307",
+        "slide":"",
+        "title": "Closing Remarks",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "Day 3",
+        "format": "Closing",
+        "date": "Sept 5th, 2020",
+        "timeDuration": "10",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "401",
+        "slide":"",
+        "title": "Hello Tensors!👋 ",
+        "description": "",
+        "track": "Day 4",
+        "format": "Opening",
+        "date": "Sept 6th, 2020",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "402",
+        "slide":"",
+        "title": "Opening Keynote - Invited Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Research",
+        "format": "Keynote",
+        "date": "Sept 6th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            41
+        ]
+    },
+    {
+        "id": "403",
+        "slide":"",
+        "title": "Invited Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "format": "Talk",
+        "date": "Sept 6th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            42
+        ]
+    },
+    {
+        "id": "404",
+        "slide":"",
+        "title": "CFP Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Research",
+        "format": "Talk",
+        "date": "Sept 6th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            43
+        ]
+    },
+    {
+        "id": "405",
+        "slide":"",
+        "title": "CFP Speaker",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "TensorFlow for Research",
+        "format": "Talk",
+        "date": "Sept 6th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+            44
+        ]
+    },
+    {
+        "id": "406",
+        "slide":"",
+        "title": "Community Project Showcase",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "Project Title",
+        "format": "Project",
+        "date": "Sept 6th, 2020",
+        "timeDuration": "30",
+        "speakers": [
+           
+        ]
+    },
+    {
+        "id": "407",
+        "slide":"",
+        "title": "Closing Remarks",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta numquam nulla hic nesciunt, deleniti dolor.",
+        "track": "Closing",
+        "format": "See you next year!",
+        "date": "Sept 6th, 2020",
+        "timeDuration": "10",
+        "speakers": [
+            
+        ]
+    }
+]

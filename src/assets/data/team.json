@@ -1,0 +1,107 @@
+[
+  {
+    "name": "TFUG Ahmedabad",
+    "image": "tfug_ahmedabad.png",
+    "social": {
+      "meetup":"https://www.meetup.com/TensorFlow_Ahmedabad/",
+      "twitter":"https://twitter.com/TensorFlowA"
+    }
+  },
+  
+  {
+    "name": "TFUG Bangalore",
+    "image": "tfug_bangalore.png",
+    "social": {
+      "meetup":"https://www.meetup.com/tfugblr/"
+    }
+  },
+  
+  {
+    "name": "TFUG Chennai",
+    "image": "tfug_chennai.png",
+    "social": {
+      "meetup":"https://www.meetup.com/TFUGChennai/",
+      "twitter":"https://twitter.com/TFUGChennai"
+    }
+  },
+  
+  {
+    "name": "TFUG Coimbatore",
+    "image": "tfug_coimbatore.png",
+    "social": {
+      "meetup":"https://www.meetup.com/TFUGCbe/",
+      "twitter":"https://twitter.com/TFUGCbe"
+    }
+  },
+  
+  {
+    "name": "TFUG Delhi",
+    "image": "tfug_delhi.png",
+    "social": {
+      "meetup":"https://www.meetup.com/en-AU/Tensorflow-User-Group-New-Delhi/",
+      "twitter":"https://twitter.com/TFUGDelhi"
+    }
+  },
+  
+  {
+    "name": "TFUG Hyderabad",
+    "image": "tfug_hyderabad.png",
+    "social": {
+      "meetup":"https://www.meetup.com/TensorFlow-User-Group-Hyderabad/"
+    }
+  },
+  
+  {
+    "name": "TFUG Kolkata",
+    "image": "tfug_kolkata.png",
+    "social": {
+      "meetup":"https://www.meetup.com/TFUG-Kol/",
+      "twitter":"https://twitter.com/TFUGKol"
+    }
+  },
+  
+  {
+    "name": "TFUG Kozhikode",
+    "image": "tfug_kozhikode.png",
+    "social": {
+      "meetup":"https://www.meetup.com/Tensorflow-User-Group-Kozhikode/",
+      "twitter":"https://twitter.com/TFUGKozhikode"
+    }
+  },
+  
+  {
+    "name": "TFUG Mumbai",
+    "image": "tfug_mumbai.png",
+    "social": {
+      "meetup":"http://meetup.com/tfugmumbai",
+      "twitter":"https://twitter.com/tfugmumbai"
+    }
+  },
+  
+  {
+    "name": "TFUG Mysuru",
+    "image": "tfug_mysuru.png",
+    "social": {
+      "meetup":"https://www.meetup.com/TFUG-Mysuru/",
+      "twitter":"https://twitter.com/mysurutfug"
+    }
+  },
+  
+  {
+    "name": "TFUG Pune",
+    "image": "tfug_pune.png",
+    "social": {
+      "meetup":"https://www.meetup.com/Tensorflow-User-Group-Pune/",
+      "twitter":"https://twitter.com/tfug_pune"
+    }
+  },
+  
+  {
+    "name": "TFUG Thissur",
+    "image": "tfug_thrissur.png",
+    "social": {
+      "meetup":"https://www.meetup.com/tfug-thrissur/",
+      "twitter":"https://twitter.com/tfug_tcr"
+    }
+  }
+]
